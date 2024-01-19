@@ -9,7 +9,7 @@ Passionate and detail-oriented professional with a robust background in both eng
 - **Data Analytics:** Excel, Power BI, SQL
 - **Programming:** Python
 - **Machine Learning:** Regression, Random Forest, Clustering, LSTM
-- **Visualization:** Tableau
+- **Visualization:** Tableau, R
 - **Education and Tutoring:** Experience in tutoring and facilitating learning environments.
 
 ## 🚀 Technical Projects
