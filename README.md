@@ -3,7 +3,7 @@
 📧 shahoodrajput@gmail.com | 📱 +447908070333 | [LinkedIn](https://www.linkedin.com/in/shahoodrajput/)
 
 ## 👨‍💻 About Me
-Passionate and detail-oriented Data Science and Analytics professional with a diverse background spanning research, education, and manufacturing. I thrive on leveraging analytical skills and technical expertise to derive actionable insights from complex datasets.
+Passionate and detail-oriented professional with a robust background in both engineering and data science and analytics. My journey spans diverse domains, including research, education, and manufacturing. My engineering background has instilled in me exceptional problem-solving and analytical skills, which, coupled with expertise in data science, allow me to derive actionable insights from complex datasets.
 
 ## 🌟 Key Skills
 - **Data Analytics:** Excel, Power BI, SQL
