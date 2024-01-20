@@ -16,7 +16,7 @@ Passionate and detail-oriented professional with a robust background in both eng
 1. [**Integrated Optimization and Forecasting for Air Conditioner Manufacturing and Distribution**](#)
    - Utilized linear programming optimization and time series forecasting to optimize manufacturing and distribution.
 
-2. [**Evolution of Basketball**](#)
+2. [**Evolution of Basketball**](https://github.com/shahoodtarique/Evolution-of-Basketball/tree/main)
    - Used Tableau to analyze the last two decades of basketball evolution, determining the top 10 players without considering team accolades.
 
 3. [**Time Series Forecasting of Oil Price**](#)
