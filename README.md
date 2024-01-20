@@ -35,7 +35,6 @@ Passionate and detail-oriented professional with a robust background in both eng
   
 7. [**5 year CapEx Plan**](https://github.com/shahoodtarique/5-year-CapEx-plan)
    - Streamlined data collection by facilitating meetings with department heads, resulting in the efficient management of 1,065 entries across 5 departments, 8 divisions, and 10 plant zones with 70 pieces of equipment.
-
    - Implemented robust data cleaning techniques, ensuring accuracy and reliability, and created visually appealing data visualizations for an interactive dashboard. Provided valuable insights on budget allocation, maintenance, and upcoming projects for informed decision-making.
 
 ## 🚀 Achievements
